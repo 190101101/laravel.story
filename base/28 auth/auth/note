@@ -1,0 +1,2 @@
+config/auth.php
+'model' => App\models\admin\Auth::class,

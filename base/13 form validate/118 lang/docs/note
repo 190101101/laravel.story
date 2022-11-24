@@ -1,0 +1,9 @@
+resources/lang/en => ru
+
+config/app.php
+
+'locale' => 'en',
+    =
+'locale' => 'ru',
+
+
